@@ -1,1 +1,1 @@
-console.log('Modified File B')
+console.log('Modified File B from merge branch')
